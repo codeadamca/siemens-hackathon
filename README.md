@@ -6,7 +6,7 @@ An admin console used for a hackathon with Humber College and Siemens.
 
 ## Repo Resources
 
-- [Humber College](https://humbernews.ca/)
+- [Humber College](https://humber.ca/)
 - [Siemens Canada](https://www.siemens.com/ca/en.html)
 
 <a href="https://codeadam.ca">
